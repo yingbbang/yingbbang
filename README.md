@@ -25,10 +25,11 @@
 
 ---
 
-### 📌 Featured Projects
-- **부기 키우기** – Gamified Finance Project  
-- **Green University** – Academic Portal System  
-- **거지탈출 챌린지** – Savings Mission Platform  
+### 🚀 Featured Projects
+- **Raise Your Boogi** – A gamified finance platform that motivates users through saving missions  
+- **Green University** – A full-featured academic management portal system  
+- **Financial Freedom Challenge** – A mission-based savings program for young adults
+
 
 ---
 
