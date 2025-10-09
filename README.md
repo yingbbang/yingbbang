@@ -26,10 +26,26 @@
 ---
 
 ### 🚀 Featured Projects
-- **Raise Your Boogi** – A gamified finance platform that motivates users through saving missions  
-- **Green University** – A full-featured academic management portal system  
-- **Financial Freedom Challenge** – A mission-based savings program for young adults
 
+## 💩💥 Boogie Dung  
+A “Hotteok Dodging” arcade game featuring **Boogi**, the official mascot of Busan, and **Dongbaekjeon**, the city’s local currency.  
+Designed to connect **regional finance** and **digital assets** naturally through a **casual, MZ-generation-friendly gameplay experience**.  
+> *Built with HTML5, JavaScript, and CSS — optimized for mobile browsers.*
+
+---
+
+## 💰 Raise Your Boogi  
+A **gamified finance platform** that motivates users through **saving missions** and reward-based progression.  
+Encourages financial literacy and healthy spending habits in a fun, interactive way.  
+> *Spring Boot · Oracle · Java · MyBatis · Gamification Design*
+
+---
+
+## 💡 Financial Freedom Challenge  
+A **mission-based savings program** designed for **young adults** to achieve their financial goals.  
+Each mission builds better savings behavior through goal setting and achievement tracking.  
+> *Gamification · Financial Education · UX for Millennials*
+ 
 
 ---
 
