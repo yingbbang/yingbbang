@@ -27,9 +27,19 @@
 
 ### 🚀 Featured Projects
 
-## 💩💥 Boogie Dung  
-A “Hotteok Dodging” arcade game featuring **Boogi**, the official mascot of Busan, and **Dongbaekjeon**, the city’s local currency.  
-Designed to connect **regional finance** and **digital assets** naturally through a **casual, MZ-generation-friendly gameplay experience**.  
+## 💩💥[ Boogie Dung  ](https://github.com/yingbbang)
+This is a hotteok-dodging game that features Dongbaekjeon, the local currency of Busan, and Boogi, the city’s official character.
+The project aims to naturally connect local finance and digital assets through a gameplay style familiar to the MZ generation.
+
+“Boogi Hotteok Dodge” is a digital content with the characteristics of an experience good.
+Its value—such as enjoyment, difficulty, and immersion—cannot be fully assessed in advance through descriptions or images;
+it can only be realized through direct gameplay experience.
+Such experience-based consumption leads to user engagement, repeat play, and brand trust formation.
+
+Therefore, this project is more than just a game —
+it is a strategic attempt to transform Busan’s local brand and financial platform into experiential trust assets.
+Playing the game itself becomes a medium of experience-driven marketing,
+enhancing familiarity and affinity toward both the Dongbaekjeon currency and the Boogi brand.
 > *Built with HTML5, JavaScript, and CSS — optimized for mobile browsers.*
 
 ---
