@@ -27,7 +27,7 @@
 
 ### 🚀 Featured Projects
 
-## 💩💥[ Boogie Dung  ](https://github.com/yingbbang)
+## 💩💥[Boogie-hotteok-dodge]([https://github.com/yingbbang](https://github.com/yingbbang/boogie-hotteok-dodge/tree/main))
 This is a hotteok-dodging game that features Dongbaekjeon, the local currency of Busan, and Boogi, the city’s official character.
 The project aims to naturally connect local finance and digital assets through a gameplay style familiar to the MZ generation.
 
