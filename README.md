@@ -27,6 +27,19 @@
 
 ### 🚀 Featured Projects
 
+## 🪙 Boogi Busan Tour Challenge — Tour-to-Earn with BNK Stablecoin  
+Discover Busan in a new way with **Boogi**, the city’s beloved mascot, and **BNK Busan Bank’s stablecoin ‘Shin Dongbaekjeon’**.  
+This gamified tourism platform rewards users with **experience points (XP)** when they pay with Shin Dongbaekjeon and visit **certified landmarks by the Busan Tourism Organization**.  
+
+As players collect XP and help Boogi grow, they naturally connect **travel, spending, and finance** into one integrated experience.  
+This project goes beyond simple entertainment — it’s a **financial gamification initiative** that transforms Busan’s regional brand and financial platforms into **experience-based trust assets**.  
+
+Each mission and payment deepens awareness and affection for **Shin Dongbaekjeon** and **Boogi**,  
+allowing MZ users to enjoy, engage, and contribute to the local economy in a fun and meaningful way.  
+
+> **Play, explore, and earn — experience Busan through Boogi and BNK Stable!**
+
+
 ## 💩💥[Boogie-hotteok-dodge]([https://github.com/yingbbang](https://github.com/yingbbang/boogie-hotteok-dodge/tree/main))
 This is a hotteok-dodging game that features Dongbaekjeon, the local currency of Busan, and Boogi, the city’s official character.
 The project aims to naturally connect local finance and digital assets through a gameplay style familiar to the MZ generation.
