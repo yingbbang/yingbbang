@@ -27,7 +27,10 @@
 
 ### 🚀 Featured Projects
 
-## 🪙 Boogi Busan Tour Challenge — Tour-to-Earn with BNK Stablecoin  
+
+
+## 🪙 Boogi Busan Tour Challenge — Tour-to-Earn with BNK Stablecoin   
+
 Discover Busan in a new way with **Boogi**, the city’s beloved mascot, and **BNK Busan Bank’s stablecoin ‘Shin Dongbaekjeon’**.  
 This gamified tourism platform rewards users with **experience points (XP)** when they pay with Shin Dongbaekjeon and visit **certified landmarks by the Busan Tourism Organization**.  
 
@@ -57,7 +60,9 @@ enhancing familiarity and affinity toward both the Dongbaekjeon currency and the
 
 ---
 
-## 💰 Raise Your Boogi  
+
+
+## 💰 Raise Your Boogi   
 A **gamified finance platform** that motivates users through **saving missions** and reward-based progression.  
 Encourages financial literacy and healthy spending habits in a fun, interactive way.  
 > *Spring Boot · Oracle · Java · MyBatis · Gamification Design*
