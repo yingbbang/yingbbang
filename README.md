@@ -32,7 +32,7 @@
 ## 🪙 Boogi Busan Tour Challenge — Tour-to-Earn with BNK Stablecoin   
 
 Discover Busan in a new way with **Boogi**, the city’s beloved mascot, and **BNK Busan Bank’s stablecoin ‘Shin Dongbaekjeon’**.  
-This gamified tourism platform rewards users with **experience points (XP)** when they pay with Shin Dongbaekjeon and visit **certified landmarks by the Busan Tourism Organization**.  
+This gamified tourism platform rewards users with **experience points (XP)** when they pay with Shin Dongbaekjeon and visit [certified landmarks by the Busan Tourism Organization](https://blog.naver.com/busanto1115/222959589969).  
 
 As players collect XP and help Boogi grow, they naturally connect **travel, spending, and finance** into one integrated experience.  
 This project goes beyond simple entertainment — it’s a **financial gamification initiative** that transforms Busan’s regional brand and financial platforms into **experience-based trust assets**.  
