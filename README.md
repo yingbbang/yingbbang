@@ -39,8 +39,9 @@ This project goes beyond simple entertainment — it’s a **financial gamificat
 
 Each mission and payment deepens awareness and affection for **Shin Dongbaekjeon** and **Boogi**,  
 allowing MZ users to enjoy, engage, and contribute to the local economy in a fun and meaningful way.  
-
-> **Play, explore, and earn — experience Busan through Boogi and BNK Stable!**
+ **Play, explore, and earn — experience Busan through Boogi and BNK Stable!**
+ 
+> *Spring Boot · Oracle · Java · MyBatis · Gamification Design*
 
 
 ## 💩💥[Boogie-hotteok-dodge]([https://github.com/yingbbang](https://github.com/yingbbang/boogie-hotteok-dodge/tree/main))
