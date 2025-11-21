@@ -21,7 +21,8 @@
 ---
 
 ## 📊 boj 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codemorning)](https://solved.ac/codemorning/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codemorning)](https://solved.ac/codemorning)
+
 
 ---
 
