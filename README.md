@@ -1,8 +1,7 @@
 # Hey, Everyone!
 ## 💻 Backend Developer | Fintech Enthusiast   <!-- 중간 제목 -->
 ### 📍 Based in Busan, Korea   <!-- 작은 제목 -->
-![Dongbaekjeon Demo](https://github.com/yingbbang/bnk-stable/blob/main/images/dongbaekjeon.gif?raw=true)
-
+![Dongbaekjeon Demo](https://github.com/yingbbang/bnk-assets/raw/main/002.gif?raw=true)
 ---
 
 <h1 align="center">🔥 Skills & Tools 🔥</h1>   <!-- HTML로 큰 제목 -->
