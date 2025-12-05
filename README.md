@@ -6,11 +6,8 @@
 
 <h1 align="center">🔥 Skills & Tools 🔥</h1>   <!-- HTML로 큰 제목 -->
 <p align="center" style="font-size:18px;">
-✨ HTML/CSS, JavaScript, Thymeleaf
-Spring Boot, Java 17
-Oracle DB, Spring Data JPA, MyBatis
-Maven/Gradle
-GitHub, Figma✨
+✨ HTML/CSS, JavaScript, Thymeleaf, Spring Boot, <br>
+ Java 17, Oracle DB, Spring Data JPA, <br>MyBatis, Maven/Gradle, GitHub, Figma✨
 </p>
 
 
