@@ -27,6 +27,11 @@
 
 ### Database
 ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?logo=oracle&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-CC0000?logo=oracle&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?logoColor=white)
 
 ### DevOps / Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
