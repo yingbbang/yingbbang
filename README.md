@@ -4,11 +4,39 @@
 ![Dongbaekjeon Demo](https://github.com/yingbbang/bnk-stable/blob/main/images/dongbaekjeon.gif?raw=true)
 ---
 
-<h1 align="center">🔥 Skills & Tools 🔥</h1>   <!-- HTML로 큰 제목 -->
-<p align="center" style="font-size:18px;">
-✨ HTML/CSS, JavaScript, Thymeleaf, Spring Boot, <br>
- Java 17, Oracle DB, Spring Data JPA, <br>MyBatis, Maven/Gradle, GitHub, Figma✨
-</p>
+## 🔥 Skills & Tools
+
+### Backend
+![Java](https://img.shields.io/badge/Java%2017-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0A84FF?logoColor=white)
+
+### Database
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?logo=oracle&logoColor=white)
+
+### DevOps / Cloud
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![OCI](https://img.shields.io/badge/OCI-F80000?logo=oracle&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 
  
