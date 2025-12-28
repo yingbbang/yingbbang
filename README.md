@@ -40,7 +40,11 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![OCI](https://img.shields.io/badge/OCI-F80000?logo=oracle&logoColor=white)
 
-### Design
+### Team Collaboration Tool
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Google%20Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 
