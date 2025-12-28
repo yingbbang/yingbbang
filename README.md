@@ -43,10 +43,10 @@
 ### Environment
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![
+
 
 ### Team Collaboration Tool
 ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
