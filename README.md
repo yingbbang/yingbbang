@@ -56,7 +56,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Google%20Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
+![KakaoTalk](https://img.shields.io/badge/kakaoTalk-FEE500?&logo=kakaotalk&logoColor=000000)
 
  
 ---
